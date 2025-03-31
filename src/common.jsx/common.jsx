@@ -1,5 +1,5 @@
-export const email_id = "june@gmail.com"
-export const resumeUrl = "https_pLjrCgVXB-naQxFi6oAvbUj_KJq-n"
+export const email_id = "smutembei9250@gmail.com"
+export const resumeUrl = "https://flowcv.com/resume/ujrwlvet3l"
 
 
 
